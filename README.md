@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Julie-byte-22
-- 👀 I’m interested in learning to programme
+- 👀 I’m interested in learning to code
 - 🌱 I’m currently learning R
 - 💞️ I’m looking to collaborate on easy tasks that help me learn things.
 - 📫 How to reach me ...
