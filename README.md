@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Julie-byte-22
 - 👀 I’m interested in learning to code
-- 🌱 I’m currently learning R
-- 💞️ I’m looking to collaborate on easy tasks that help me learn things.
-- 📫 How to reach me ...
+- 🌱 I’m currently learning R and Python
 
 <!---
 Julie-byte-22/Julie-byte-22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
