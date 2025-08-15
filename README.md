@@ -1,4 +1,4 @@
-'''
+```
 Julia M. Schmidt
 
 🎓 PhD Candidate in Economics — Université Paris Dauphine – PSL
@@ -50,4 +50,4 @@ Data Science: Python; NLP; machine learning; LLMs; big‑data pipelines
 Collaboration: International project management; policy advising; team leadership
 
 📫 Connect: 🌐 Website · ✉️ Email
-'''
+```
